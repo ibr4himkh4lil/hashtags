@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1",
-  "apkUrl": "https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/releases/download/v1.1/viral_pro.apk",
-  "changelog": "✨ নতুন ফিচার যোগ হয়েছে\n🐛 বাগ ঠিক করা হয়েছে\n⚡ পারফরম্যান্স উন্নত হয়েছে"
+  "versionCode": 1,
+  "versionName": "1.0",
+  "apkUrl": "https://github.com/ibr4himkh4lil/hashtags/releases/download/Hashtags/Viral.Pro_1.0.apk",
+  "changelog": "✨ Viral Pro প্রথম রিলিজ\n🤖 Gemini AI দিয়ে হ্যাশট্যাগ জেনারেট\n📴 অফলাইন মোড সাপোর্ট"
 }
